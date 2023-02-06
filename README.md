@@ -1,6 +1,6 @@
 # Hoobank - Landing Page
 
-Landing page for a Hoobank, modern banking app for your financial needs.
+Landing page for a Hoobank, a modern banking app for your financial needs.
 
 ## Technology stack
 
